@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Pedro Luis</h1>
 
-<!--
-**zPedroLuis/zPedroLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> Full Stack Developer</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I've worked on full stack projects. I enjoy solving problems with code, learning new technologies, and writing technical documentation that actually makes sense.
+
+Currently, I'm studying **ReactJS** and **NextJS**, and I'm always exploring some API for fun or learning. I've worked with Python (Flask), Ruby on Rails, Vue, Angular, SQL, automations with n8n, among other cool tools.
+
+---
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zpedroluis&show_icons=true&theme=transparent&hide=contribs,stars" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpedroluis&layout=compact&langs_count=10&theme=transparent" />
+</div>
+
+---
+
+### 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/zpedroluis/)
+- ✉️ zpedroluis@outlook.com
+
+---
+
+⭐ Thanks for visiting my profile!
