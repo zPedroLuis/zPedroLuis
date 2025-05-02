@@ -13,8 +13,10 @@ Currently, I'm studying **ReactJS** and **NextJS**, and I'm always exploring som
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zpedroluis&show_icons=true&theme=transparent&hide=contribs,stars" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpedroluis&layout=compact&langs_count=10&theme=transparent" />
+  <div style="display: flex; gap: 20px;">
+    <img height="220px" src="https://github-readme-stats.vercel.app/api?username=zpedroluis&show_icons=true&theme=transparent&hide=contribs,stars" />
+    <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpedroluis&layout=compact&langs_count=10&theme=transparent" />
+  </div>
 </div>
 
 ---
